@@ -435,12 +435,12 @@ footer li {
 }
 
 /* mobile phones: */
-@media (max-width: 480px) {
+@media (max-width: 360px) {
     html {
         font-size: 60%;
     }
     .simply-countdown > .simply-section{
-        padding: 45px;
+        padding: 30px;
         margin: 3px;
     }
 
