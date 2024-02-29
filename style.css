@@ -483,19 +483,14 @@ footer li {
         font-size: 60%;
     }
     .simply-countdown > .simply-section{
-        padding: 20px;
-        margin: 1px;
+        padding: 30px;
+        margin: 2px;
     }
 
     .mynavbar .nav-link {
-        font-size: 1rem;
+        font-size: 2rem;
         text-align: center;
     }
-
-    .sticky-top {
-        overflow: hidden;
-    }
-
     
 
     .timeline li .timeline-image {
