@@ -435,19 +435,13 @@ footer li {
 }
 
 /* mobile phones: */
-@media (max-width: 480px) {
+@media (max-width: 562px) {
     html {
         font-size: 60%;
     }
     .simply-countdown > .simply-section{
         padding: 15px;
-        margin: 3px;
-    }
-
-
-    .mynavbar .nav-link {
-        font-size: 2rem;
-        text-align: center;
+        margin: 1px;
     }
     
 
