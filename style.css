@@ -435,7 +435,7 @@ footer li {
 }
 
 /* mobile phones: */
-@media (max-width: 480px) {
+@media (max-width: 576px) {
     html {
         font-size: 60%;
     }
@@ -443,6 +443,16 @@ footer li {
         padding: 20px;
         margin: 1px;
     }
+
+    .mynavbar .nav-link {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .sticky-top {
+        overflow: hidden;
+    }
+
     
 
     .timeline li .timeline-image {
