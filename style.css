@@ -435,7 +435,7 @@ footer li {
 }
 
 /* mobile phones: */
-@media (max-width: 562px) {
+@media (max-width: 480px) {
     html {
         font-size: 60%;
     }
