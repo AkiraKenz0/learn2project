@@ -462,6 +462,11 @@ footer li {
         top: 31px;
 
     }
+
+    mynavbar .nav-link {
+        font-size: 1rem;
+        text-align: center;
+    }
    
 }
 
